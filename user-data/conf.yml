@@ -59,5 +59,10 @@ sections:
         https://static.files.bbci.co.uk/core/website/assets/static/bitesize/message-banner-illustration.40995cf204b21d462a91.svg
       url: https://www.bbc.co.uk/bitesize/levels/z4kw2hv
       id: 2_513_bbcbitesize
-
+  - name: Astronomy Picture of the Day
+    items: []
+    widgets:
+      - type: apod
+        id: 0_2652_apod
+    filteredItems: []
       
