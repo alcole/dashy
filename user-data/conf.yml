@@ -44,4 +44,18 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
+- name: Getting Started
+  icon: fas fa-rocket
+  items:
+    - title: Key Stage 3
+      url: https://www.redlandgreen.bristol.sch.uk/Curriculum/Key-Stage-3/
+      id: 0_513_keystage
+    - title: Wikipedia
+      icon: https://en.wikipedia.org/static/images/icons/wikipedia.png
+      url: https://en.wikipedia.org/wiki/Main_Page
+      id: 1_513_wikipedia
+    - title: BBC Bitesize
+      icon: >-
+        https://static.files.bbci.co.uk/core/website/assets/static/bitesize/message-banner-illustration.40995cf204b21d462a91.svg
+      url: https://www.bbc.co.uk/bitesize/levels/z4kw2hv
+      id: 2_513_bbcbitesize
