@@ -64,5 +64,3 @@ sections:
     widgets:
       - type: apod
         id: 0_2652_apod
-    filteredItems: []
-      
