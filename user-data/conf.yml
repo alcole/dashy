@@ -44,7 +44,18 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-- name: Getting Started
+- name: Today
+  icon: far fa-calendar-day
+  widgets:
+    - type: clock
+      options:
+        format: en-GB
+      id: 0_513_clock
+    - type: xkcd-comic
+      options:
+        comic: latest
+      id: 1_513_xkcdcomic
+- name: Links
   icon: fas fa-rocket
   items:
     - title: Key Stage 3
@@ -60,6 +71,7 @@ sections:
       url: https://www.bbc.co.uk/bitesize/levels/z4kw2hv
       id: 2_513_bbcbitesize
 - name: Astronomy Picture of the Day
+  icon: fas fa-rocket
   widgets:
     - type: apod
       id: 0_2652_apod
