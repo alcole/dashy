@@ -15,6 +15,17 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
+- name: Today
+  icon: far fa-calendar-day
+  widgets:
+    - type: clock
+      options:
+        format: en-GB
+      id: 0_513_clock
+    - type: xkcd-comic
+      options:
+        comic: latest
+      id: 1_513_xkcdcomic
 - name: School links
   icon: fas fa-rocket
   items:
@@ -44,17 +55,7 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-- name: Today
-  icon: far fa-calendar-day
-  widgets:
-    - type: clock
-      options:
-        format: en-GB
-      id: 0_513_clock
-    - type: xkcd-comic
-      options:
-        comic: latest
-      id: 1_513_xkcdcomic
+
 - name: Links
   icon: fas fa-rocket
   items:
