@@ -1,7 +1,7 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
+  title: Otto's Dashborad
   description: Welcome to your new dashboard!
   navLinks:
   - title: GitHub
@@ -15,22 +15,22 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-- name: Getting Started
+- name: School links
   icon: fas fa-rocket
   items:
-  - title: email
-    description: Development a project management links for Dashy
-    icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+  - title: Email
+    description: Check your emails here
+    icon: fa-regular fa-envelope
     url: https://mail.google.com/mail/u/0/#inbox
     target: newtab
   - title: Calendar
-    description: Source Code, Issues and Pull Requests
+    description: Check your calendar here
     url: https://calendar.google.com/calendar/u/0/r?pli=1
-    icon: favicon
+    icon: "fa-regular fa-calendar-days"
   - title: Classroom
     description: Configuring & Usage Documentation
     provider: Dashy.to
-    icon: far fa-book
+    icon: https://www.clipartkey.com/mpngs/m/45-457301_google-classroom-icon.png
     url: https://classroom.google.com/?authuser=0
   - title: Showcase
     description: See how others are using Dashy
