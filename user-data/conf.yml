@@ -26,7 +26,7 @@ sections:
   - title: Calendar
     description: Check your calendar here
     url: https://calendar.google.com/calendar/u/0/r?pli=1
-    icon: "fa-regular fa-calendar-days"
+    icon: mdi-calendar-month
   - title: Classroom
     description: Configuring & Usage Documentation
     provider: Dashy.to
@@ -59,6 +59,7 @@ sections:
   icon: fas fa-rocket
   items:
     - title: Key Stage 3
+      icon: generative
       url: https://www.redlandgreen.bristol.sch.uk/Curriculum/Key-Stage-3/
       id: 0_513_keystage
     - title: Wikipedia
@@ -70,6 +71,9 @@ sections:
         https://static.files.bbci.co.uk/core/website/assets/static/bitesize/message-banner-illustration.40995cf204b21d462a91.svg
       url: https://www.bbc.co.uk/bitesize/levels/z4kw2hv
       id: 2_513_bbcbitesize
+    - title: Sam Learning
+      icon: generative
+      url: https://platform.samlearning.com/learner/challenges/#/
 - name: Astronomy Picture of the Day
   icon: fas fa-rocket
   widgets:
