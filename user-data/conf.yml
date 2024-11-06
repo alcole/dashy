@@ -20,7 +20,7 @@ sections:
   items:
   - title: Email
     description: Check your emails here
-    icon: fa-regular fa-envelope
+    icon: si-gmail
     url: https://mail.google.com/mail/u/0/#inbox
     target: newtab
   - title: Calendar
