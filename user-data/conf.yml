@@ -43,18 +43,6 @@ sections:
     provider: Dashy.to
     icon: https://www.clipartkey.com/mpngs/m/45-457301_google-classroom-icon.png
     url: https://classroom.google.com/?authuser=0
-  - title: Showcase
-    description: See how others are using Dashy
-    url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
-    icon: far fa-grin-hearts
-  - title: Config Guide
-    description: See full list of configuration options
-    url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
-    icon: fas fa-wrench
-  - title: Support
-    description: Get help with Dashy, raise a bug, or get in contact
-    url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
-    icon: far fa-hands-helping
 
 - name: Links
   icon: fas fa-rocket
