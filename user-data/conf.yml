@@ -42,6 +42,10 @@ sections:
     description: Open Google Classroom
     icon: https://www.clipartkey.com/mpngs/m/45-457301_google-classroom-icon.png
     url: https://classroom.google.com/?authuser=0
+  - title: MyMaths
+    description: MyMaths Portal
+    icon: https://www.myimaths.com/images/logo-mobile-blue.svg
+    url: https://app.mymaths.co.uk/myportal/student/my_homework
 
 - name: Links
   icon: fas fa-rocket
