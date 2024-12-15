@@ -66,6 +66,9 @@ sections:
     - title: Sam Learning
       icon: generative
       url: https://platform.samlearning.com/learner/challenges/#/
+    - title: Logo Interpreter
+      icon: generative
+      url: https://www.calormen.com/jslogo/
 - name: Astronomy Picture of the Day
   icon: fas fa-rocket
   widgets:
